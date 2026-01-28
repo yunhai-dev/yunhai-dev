@@ -56,7 +56,7 @@ Source repository: https://github.com/Xiaokang2022/Xiaokang2022
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/yunhai-dev"><img src="https://img.shields.io/badge/GitHub-2214372851-blue?logo=github" /></a>
+<a href="https://github.com/yunhai-dev"><img src="https://img.shields.io/badge/GitHub-yunhai-dev-blue?logo=github" /></a>
 <a href="https://gitee.com/yun2hai"><img src="https://img.shields.io/badge/Gitee-yun2hai-blue?logo=gitee" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=yunhai-dev" />
