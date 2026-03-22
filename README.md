@@ -103,37 +103,9 @@ Source repository: https://github.com/Xiaokang2022/Xiaokang2022
 <br />
 
 <p align="center">
-  <strong>Selected Work</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/yunhai-dev/Clouisle"><strong>Clouisle</strong></a>
+  I am currently building across AI applications, websites, automation workflows,
   <br />
-  An enterprise-grade knowledge base and AI agent platform built around actionable knowledge, RAG, and intelligent workflows.
-</p>
-
-<p align="center">
-  <a href="https://github.com/yunhai-dev/YUN"><strong>YUN</strong></a>
-  <br />
-  My personal website, where product design, writing, and engineering come together in a more personal form.
-</p>
-
-<p align="center">
-  <a href="https://github.com/yunhai-dev/yundownload"><strong>yundownload</strong></a>
-  <br />
-  A file downloader project focused on straightforward utility and real-world usefulness.
-</p>
-
-<p align="center">
-  <a href="https://github.com/yunhai-dev/crawlsy"><strong>crawlsy</strong></a>
-  <br />
-  A crawler management platform exploring structured collection, automation, and operational tooling.
-</p>
-
-<p align="center">
-  <a href="https://github.com/yunhai-dev/naive-for-qt"><strong>naive-for-qt</strong></a>
-  <br />
-  A PySide6 UI component library built around reusable interface patterns.
+  and developer-facing tools, with a long-term interest in software that remains useful, calm, and human-centered.
 </p>
 
 <br />
